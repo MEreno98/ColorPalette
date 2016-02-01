@@ -1,18 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Color Display</title>
+  <title>Color Palette</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="icon" type="image/png" href="img/favicon.png">
   <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css/colors.css">
   <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	<header class="text-center">
-		<h1>Color Display</h1>
+	<header>
+		<nav class="navbar navbar-default navbar-inverse navbar-fixed-top">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-1">
+							<span class="sr-only">Desplegar / Ocultar Menú</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a href="index.html" class="navbar-brand"><img src="" alt="logo" class="img-responsive"></a>
+					</div>
+					<!--Inicia menú-->
+					<div class="collapse navbar-collapse" id="navbar-1">
+						<ul class="nav navbar-nav">
+							<li><a href="index.html">Home</a></li>
+							<li class="active"><a href="palette.html">Palette</a></li>	
+						</ul>
+					</div>
+				</div>
+			</nav>
 	</header>
 	<section class="container text-center">
 		<article class="row">
@@ -120,7 +139,12 @@
 			<div class="color col-xs-4 col-md-2 bc-carnation">Carnation</div>
 		</article>	
 	</section>
+	<footer class="footer">
+		<div class="container">
+			<p class="text-muted">Place sticky footer content here.</p>
+		</div>
+	</footer>
 	<script src="js/jquery-1.11.3.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>		
+	<script src="js/bootstrap.min.js"></script>	
 </body>
 </html>
