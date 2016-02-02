@@ -5,5 +5,5 @@ $(document).ready(function()
 {
     var date = new Date();
     var aino = date.getFullYear();
-    $("#aino").text(aino);
+    $(".aino").text(aino);
 });
