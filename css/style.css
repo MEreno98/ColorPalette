@@ -1,9 +1,10 @@
-header{
-	margin-bottom: 90px;
-}
-
 html,body {
 	height: 100%;
+}
+
+figure pre{
+	background: #232323;
+	padding: 12px;
 }
 
 footer {
@@ -11,6 +12,22 @@ footer {
 	min-height: 60px;
 	background-color: #1A1A1A;
 	padding-top: 20px;
+}
+
+pre .atr{
+	color: #cc7832;
+}
+
+pre .atrDT{
+	color: #b4c973;
+}
+
+pre .tag{
+	color: #E8BF6A;
+}
+
+pre .sbl{
+	color: #E8BF6A;
 }
 
 .clase{
@@ -47,11 +64,45 @@ footer {
 	font-size: 18px;
 }
 
+.paleta{
+	margin-top: 90px;
+}
+
+.text{
+	font-size: 16px;
+}
+
 .wrap {
 	min-height: 100%;
 	height: auto;
 	margin: 0 auto -60px;
 	padding: 0 0 60px;
+}
+
+/* ZeroClipboard styles */
+
+.zero-clipboard {
+	position: relative;
+	display: none;
+}
+.btn-clipboard {
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 10;
+	display: block;
+	padding: 5px 8px;
+	font-size: 12px;
+	color: #777;
+	cursor: pointer;
+	background-color: #fff;
+	border: 1px solid #e1e1e8;
+	border-radius: 0 4px 0 4px;
+}
+.btn-clipboard-hover {
+	color: #fff;
+	background-color: #563d7c;
+	border-color: #563d7c;
 }
 
 @media only screen and (min-width: 769px){
