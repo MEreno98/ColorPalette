@@ -29,6 +29,16 @@ footer {
 	height: 100px;
 }
 
+.jumbotron{
+	background: url("../img/jumbotron.png");
+	color: white;
+}
+
+.imgJBT{
+	max-width: 150px;
+	height: auto;
+}
+
 .imgLogo{
 	max-width: 40px;
 	height: auto;
