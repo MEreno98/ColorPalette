@@ -1,2 +1,2 @@
 # ColorssPalette
-Color Palette Web Page in progress.
+Colors Palette Web Page in progress.
