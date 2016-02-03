@@ -1,3 +1,4 @@
+</div>
 <footer class="footer">
     <div class="container">
         <div class="col-sm-6 col-xs-12"><p class="text-muted">Place sticky footer content here.</p></div>
