@@ -26,11 +26,11 @@
                 </ul>
                 <div class="tab-content cEjemplo1">
                     <div class="tab-pane" id="result1">
-                        <div class="bc-banana text">Hello World</div>
+                        <div class="bc-silver text">Hello World</div>
                     </div>
                     <div class="tab-pane active" id="html1">
                         <figure class="highlight">
-                            <pre class="textCD"><code class="language-html" data-target="html"><span class="tag">&lt;div</span><span> </span><span class="atr">class</span><span class="sbl">=</span><span class="atrDT">"bc-banana"</span><span class="tag">&gt;</span><span class="txt"> Hello World</span><span class="tag">&lt;/div</span><span class="tag">&gt;</span></code></pre>
+                            <pre class="textCD"><code class="language-html" data-target="html"><span class="tag">&lt;div</span><span> </span><span class="atr">class</span><span class="sbl">=</span><span class="atrDT">"bc-silver"</span><span class="tag">&gt;</span><span class="txt"> Hello World</span><span class="tag">&lt;/div</span><span class="tag">&gt;</span></code></pre>
                         </figure>
                     </div>
                 </div>
