@@ -19,7 +19,7 @@
     <link rel="icon" type="image/png" href="<?php echo url::getRaiz()?>/img/favicon.png">
     <link rel="apple-touch-icon" href="<?php echo url::getRaiz()?>/img/apple-touch-icon.png">
     <link rel="stylesheet" type="text/css" href="<?php echo url::getRaiz()?>/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="<?php echo url::getRaiz()?>/css/colors.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo url::getRaiz()?>/css/colorsspalette.min.css">
     <link rel="stylesheet" type="text/css" href="<?php echo url::getRaiz()?>/css/style.css">
 </head>
 <body>
