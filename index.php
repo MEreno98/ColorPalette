@@ -36,6 +36,9 @@
                 <p class="resultado"><div class="c-cayenne">Hello world</div> </p>
                 <p class="text">Now you only have to go to the "Palette" page and choose your favorite color</p>
             </article>
+            <article class="col-xs-12 text-center">
+                <a href="<?php echo url::getRaiz()?>/download/downloadFile.php" class="btn btn-default btn-lg">Download ColorssPalette</a>
+            </article>
         </div>
     </section>
 <?php
