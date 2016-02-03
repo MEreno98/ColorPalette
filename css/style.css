@@ -33,6 +33,32 @@ pre .txt{
 	color: #D6D6D6;
 }
 
+.btn-downl{
+	margin-top: 30px;
+}
+
+.cEjemplo1, .cEjemplo2{
+	display: block;
+	height: 125px;
+	padding: 25px;
+	font-size: 13px;
+	line-height: 1.42857143;
+	color: #333;
+	background-color: #232323;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	margin-bottom: 12px;
+}
+
+.cEjemplo1 pre,.cEjemplo2 pre{
+	margin-top: 15px;
+	border: none;
+}
+
+.cEjemplo1 #result1,.cEjemplo2 #result2{
+	padding: 24.5px;
+}
+
 .clase{
 	margin-top: 12px;
 }
