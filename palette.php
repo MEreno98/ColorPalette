@@ -3,7 +3,6 @@
     require_once __DIR__ . "/plantillas/cabecera.php";
     require_once __DIR__ . "/plantillas/header.php";
 ?>
-
     <section class="container text-center paleta">
     <article class="row">
         <div class="color col-xs-6 col-sm-4 col-md-2 bc-licorize c-snow">
