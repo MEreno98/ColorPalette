@@ -22,7 +22,7 @@
                 </p>
             </article>
             <article class="col-xs-12 text-center">
-                <a href="<?php echo url::getRaiz()?>/download/downloadFile.php" class="btn btn-default btn-lg bc-tungsten c-silver">Download ColorssPalette</a>
+                <a href="<?php echo url::getRaiz()?>/download/downloadFile.php" class="btn btn-default btn-lg">Download ColorssPalette</a>
             </article>
         </div>
     </section>
