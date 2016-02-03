@@ -16,11 +16,11 @@
     ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <link rel="icon" type="image/png" href="img/favicon.png">
-    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="css/colors.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="icon" type="image/png" href="<?php echo url::getRaiz()?>/img/favicon.png">
+    <link rel="apple-touch-icon" href="<?php echo url::getRaiz()?>/img/apple-touch-icon.png">
+    <link rel="stylesheet" type="text/css" href="<?php echo url::getRaiz()?>/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo url::getRaiz()?>/css/colors.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo url::getRaiz()?>/css/style.css">
 </head>
 <body>
 <div class="wrap">

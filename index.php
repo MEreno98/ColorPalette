@@ -1,5 +1,6 @@
 <?php
-    require_once __DIR__."plantillas/cabecera.php";
+    require_once __DIR__."/plantillas/url.php";
+    require_once __DIR__."/plantillas/cabecera.php";
 ?>
 <header>
         <nav class="navbar navbar-default navbar-inverse navbar-fixed-top">
@@ -51,6 +52,6 @@
         </div>
     </section>
 <?php
-    require_once __DIR__."plantillas/footer.php";
-    require_once __DIR__."plantillas/pie.php";
+    require_once __DIR__."/plantillas/footer.php";
+    require_once __DIR__."/plantillas/pie.php";
 ?>
