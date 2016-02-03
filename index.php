@@ -18,8 +18,23 @@
             <article class="col-xs-12">
                 <h1>How to use it?</h1>
                 <p class="text">
-
+                    Once you have link the CSS file, you only have to use the class of the color you want to apply to your background or text.
+                    If it's a background will be like this:
                 </p>
+                <figure class="highlight">
+				<pre class="textCD"><code class="language-html" data-target="html"><span class="tag">&lt;div</span><span> </span><span class="atr">class</span><span class="sbl">=</span><span class="atrDT">"bc-banana"</span><span class="tag">&gt;</span><span class="txt"> Hello World</span><span class="tag">&lt;/div</span><span class="tag">&gt;</span></code></pre>
+                </figure>
+                <p class="text">Result:</p>
+                <p class="resultado"><div class="bc-banana">Hello world</div> </p>
+                <p class="text">
+                    If you want to color the text will be like this:
+                </p>
+                <figure class="highlight">
+                    <pre class="textCD"><code class="language-html" data-target="html"><span class="tag">&lt;div</span><span> </span><span class="atr">class</span><span class="sbl">=</span><span class="atrDT">"c-cayenne"</span><span class="tag">&gt;</span><span class="txt"> Hello World</span><span class="tag">&lt;/div</span><span class="tag">&gt;</span></code></pre>
+                </figure>
+                <p class="text">Result:</p>
+                <p class="resultado"><div class="c-cayenne">Hello world</div> </p>
+                <p class="text">Now you only have to go to the "Palette" page and choose your favorite color</p>
             </article>
         </div>
     </section>
