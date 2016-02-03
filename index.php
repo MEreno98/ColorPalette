@@ -1,7 +1,7 @@
 <?php
-    require_once __DIR__."/plantillas/url.php";
-    require_once __DIR__."/plantillas/cabecera.php";
-    require_once __DIR__."/plantillas/header.php";
+    require_once __DIR__ . "/plantillas/url.php";
+    require_once __DIR__ . "/plantillas/cabecera.php";
+    require_once __DIR__ . "/plantillas/header.php";
 ?>
     <section class="container" >
         <div class="row">
@@ -24,6 +24,6 @@
         </div>
     </section>
 <?php
-    require_once __DIR__."/plantillas/footer.php";
-    require_once __DIR__."/plantillas/pie.php";
+    require_once __DIR__ . "/plantillas/footer.php";
+    require_once __DIR__ . "/plantillas/pie.php";
 ?>
