@@ -8,7 +8,7 @@
  */
 class url
 {
-    private static $raiz = "http://149.202.50.200/ColorssPalette";
+    private static $raiz = "http://192.168.33.10/ColorssPalette";
 
     /**
      * @return string
