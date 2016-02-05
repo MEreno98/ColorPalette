@@ -1,7 +1,7 @@
 <?php
-    require_once __DIR__ . "/plantillas/url.php";
-    require_once __DIR__ . "/plantillas/cabecera.php";
-    require_once __DIR__ . "/plantillas/header.php";
+    require_once __DIR__ . "/Plantillas/url.php";
+    require_once __DIR__ . "/Plantillas/cabecera.php";
+    require_once __DIR__ . "/Plantillas/header.php";
 ?>
     <section class="container text-center paleta">
     <article class="row">
@@ -159,6 +159,6 @@
 </section>
 
 <?php
-require_once __DIR__ . "/plantillas/footer.php";
-require_once __DIR__ . "/plantillas/pie.php";
+require_once __DIR__ . "/Plantillas/footer.php";
+require_once __DIR__ . "/Plantillas/pie.php";
 ?>
